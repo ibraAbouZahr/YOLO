@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+yolo-env/
+
+
+# IDE-specific
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Streamlit cache
+.streamlit/
+
+# Video or image temp output
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+output_detected.mp4
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Uploaded temp files
+tmp/
+temp/
