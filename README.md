@@ -1,3 +1,4 @@
+````markdown
 ## 🔍 YOLOv8 Object Detection Web App
 
 A real-time object detection web application using **YOLOv8** (by Ultralytics), powered by **Streamlit**. Detect objects in images and videos with an adjustable confidence threshold and visually see the results instantly!
@@ -23,6 +24,7 @@ A real-time object detection web application using **YOLOv8** (by Ultralytics), 
    git clone https://github.com/yourusername/yolov8-streamlit-app.git
    cd yolov8-streamlit-app
    ```
+````
 
 `````
 
@@ -91,8 +93,8 @@ _All are listed in requirements.txt_
 
 ## 👥 Authors
 
-- **Ibrahim Abou Zahr** - [LinkedIn](https://linkedin.com/in/yourprofile)
-- **Mohamad Mawed** - [LinkedIn](https://linkedin.com/in/yourprofile)
+- **Ibrahim Abou Zahr** - [LinkedIn](https://www.linkedin.com/in/ibrahim-abouzahr-dev/)
+- **Mohamad Mawed** - [LinkedIn](https://www.linkedin.com/in/mohamad-el-mawed-dev/)
 
 ---
 
