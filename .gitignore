@@ -28,7 +28,7 @@ yolo-env/
 *.avi
 *.mov
 *.png
-*.jpg
+
 *.jpeg
 output_detected.mp4
 
