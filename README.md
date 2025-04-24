@@ -91,7 +91,7 @@ _All are listed in requirements.txt_
 ## 👥 Authors
 
 - **Ibrahim Abou Zahr** - [LinkedIn](https://www.linkedin.com/in/ibrahim-abouzahr-dev/)
-- **Mohamad Mawed** - [LinkedIn](https://www.linkedin.com/in/mohamad-el-mawed-dev/)
+- **Mohamad El Mawed** - [LinkedIn](https://www.linkedin.com/in/mohamad-el-mawed-dev/)
 
 ---
 
